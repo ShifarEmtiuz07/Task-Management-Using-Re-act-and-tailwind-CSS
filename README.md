@@ -32,7 +32,8 @@ To get started with this project, follow these steps:
     ```
 
 2.  **Navigate to the project directory**:
-    cd task-management
+    
+        cd task-management
 
 3.**Install dependencies**:
 
